@@ -1,0 +1,11 @@
+= README: rpi.gpio for Manjaro Linux (64bits)
+felix@42sol.eu
+v0, 2020-02-24, draft
+
+== Motivation
+
+During the setup of a e-paper-ink-display from waveshare on my raspberry pi 3 (64bit), I had to recomplie the rpio.gpio library from sourceforge to build properly on my system.
+
+== Links
+
+link:https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/[Wiki of rpi-gpio]
